@@ -16,8 +16,7 @@ I'm Telmen, an aspiring Junior Software Engineer from Winterthur, Switzerland.
 
 ## 🌱 I'm currently learning
 
-![Learning1](https://img.shields.io/badge/-Learning1-333333?style=flat&logo=learning1)
-![Learning2](https://img.shields.io/badge/-Learning2-333333?style=flat&logo=learning2)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
 ## 📫 How to reach me
 
