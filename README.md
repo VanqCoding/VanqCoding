@@ -11,6 +11,7 @@ I'm Telmen, an aspiring Junior Software Engineer from Winterthur, Switzerland.
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft-azure)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
 
 
 ## 🌱 I'm currently learning
