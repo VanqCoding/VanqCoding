@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Telmen, an aspiring Junior Software Engineer from Winterthur, Switzerland.
+I'm Telmen, an aspiring Junior Software Engineer from Switzerland.
 
 ## 🔧 Technologies & Tools
 
