@@ -6,7 +6,9 @@ I'm Telmen, an aspiring Junior Software Engineer from Winterthur, Switzerland.
 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Tech3](https://img.shields.io/badge/-Tech3-333333?style=flat&logo=tech3)
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
 ## 🌱 I'm currently learning
 
