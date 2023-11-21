@@ -10,9 +10,10 @@ I'm Telmen, an aspiring Junior Software Engineer from Winterthur, Switzerland.
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=spring)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft-azure)
+![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
+![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft-azure)
 
 
 ## 🌱 I'm currently learning
