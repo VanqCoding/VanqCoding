@@ -28,5 +28,5 @@ I'm Telmen, an aspiring Junior Software Engineer from Winterthur, Switzerland.
 
 ## 🛠️ My Projects
 
-- [Project1](https://github.com/yourusername/project1): Short description.
+- [URL Vault]([https://github.com/yourusername/project1](https://github.com/VanqCoding/JavaScript_ChromeExtension)): URL Vault is a solution for effortlessly managing and organizing your favorite links and web pages. With this Chrome extension, you can easily save URLs from your current tab or manually enter links for future reference.
 - [Project2](https://github.com/yourusername/project2): Short description.
