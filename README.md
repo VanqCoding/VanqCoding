@@ -4,8 +4,8 @@ I'm Telmen, an aspiring Junior Software Engineer from Winterthur, Switzerland.
 
 ## 🔧 Technologies & Tools
 
-![Tech1](https://img.shields.io/badge/-Tech1-333333?style=flat&logo=tech1)
-![Tech2](https://img.shields.io/badge/-Tech2-333333?style=flat&logo=tech2)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Tech3](https://img.shields.io/badge/-Tech3-333333?style=flat&logo=tech3)
 
 ## 🌱 I'm currently learning
