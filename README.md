@@ -17,7 +17,7 @@ I'm Telmen, an aspiring Junior Software Engineer from Winterthur, Switzerland.
 
 ## 📫 How to reach me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourusername/](https://www.linkedin.com/in/telmen-munkhbaatar-96b046285/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/telmen-munkhbaatar-96b046285/))
 
 
 ## 🛠️ My Projects
