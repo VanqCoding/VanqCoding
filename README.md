@@ -50,11 +50,15 @@
 
 ## 📫 How to reach me
 
-<div>
-  <a href="https://www.linkedin.com/in/telmen-munkhbaatar-96b046285/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" alt="LinkedIn" width="600" height="300"/>
-  </a>
-</div>
+<table>
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/telmen-munkhbaatar-96b046285/">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" alt="LinkedIn" width="50" height="50"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 ## 🛠️ My Projects
