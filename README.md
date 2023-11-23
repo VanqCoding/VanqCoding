@@ -3,7 +3,6 @@
 </div>
 
 # Hi there! 👋
-<div class="tenor-gif-embed" data-postid="10897308" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/waving-wave-hand-emoji-gif-10897308">Waving Wave GIF</a>from <a href="https://tenor.com/search/waving-gifs">Waving GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <h3>I'm Telmen, an aspiring Junior Software Engineer from Switzerland.</h3>
 
