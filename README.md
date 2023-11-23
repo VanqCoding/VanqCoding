@@ -4,7 +4,7 @@
 
 # Hi there! 👋
 
-I'm Telmen, an aspiring Junior Software Engineer from Switzerland.
+<h1>I'm Telmen, an aspiring Junior Software Engineer from Switzerland.</h1>
 
 ## 🔧 Technologies & Tools
 
