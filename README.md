@@ -32,6 +32,7 @@ I'm Telmen, an aspiring Junior Software Engineer from Switzerland.
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/telmen-munkhbaatar-96b046285/)
 
 ## 🛠️ My Projects
+---
 ### [URL VAULT](https://github.com/VanqCoding/JavaScript_ChromeExtension)
 URL Vault is a solution for effortlessly managing and organizing your favorite links and web pages. With this Chrome extension, you can        easily save URLs from your current tab or manually enter links for future reference.
   
@@ -47,6 +48,8 @@ This project is a simple implementation of the classic card game using HTML, CSS
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+
+---
   
 ### [SHOP MATE](https://github.com/VanqCoding/ShopMate)
 Shop Mate is a simple mobile app that lets you manage your grocery list so you won't forget to buy anything.
@@ -55,6 +58,8 @@ Shop Mate is a simple mobile app that lets you manage your grocery list so you w
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
+
+---
   
 ### [AIRBNB EXPERIENCES CLONE](https://github.com/VanqCoding/REACT_airbnb-clone)
 This project is a simplified clone of Airbnb Experiences, built using React.
