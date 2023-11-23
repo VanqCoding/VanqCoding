@@ -50,7 +50,9 @@
 
 ## 📫 How to reach me
 
+<div width="600" height="300">
 [![LinkedIn](https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg)](https://www.linkedin.com/in/telmen-munkhbaatar-96b046285/)
+</div>
 
 ## 🛠️ My Projects
 
