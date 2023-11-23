@@ -35,20 +35,26 @@ I'm Telmen, an aspiring Junior Software Engineer from Switzerland.
   
   
 
-- ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
+- [BlackJack](https://github.com/VanqCoding/JavaScript_BlackJack): This project is a simple implementation of the classic card game using HTML, CSS, and JavaScript.
+
+  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   
-  [BlackJack](https://github.com/VanqCoding/JavaScript_BlackJack): This project is a simple implementation of the classic card game using HTML, CSS, and JavaScript.
-- ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
+  
+- [Shop Mate](https://github.com/VanqCoding/ShopMate): Shop Mate is a simple mobile app that lets you manage your grocery list so you won't forget to buy anything.
+
+  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
   
-  [Shop Mate](https://github.com/VanqCoding/ShopMate): Shop Mate is a simple mobile app that lets you manage your grocery list so you won't forget to buy anything.
-- ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
+  
+- [AirBnB Experiences clone](https://github.com/VanqCoding/REACT_airbnb-clone): This project is a simplified clone of Airbnb Experiences, built using React.
+
+  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   
-  [AirBnB Experiences clone](https://github.com/VanqCoding/REACT_airbnb-clone): This project is a simplified clone of Airbnb Experiences, built using React.
+  
