@@ -34,7 +34,7 @@ I'm Telmen, an aspiring Junior Software Engineer from Switzerland.
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/telmen-munkhbaatar-96b046285/)
 
 ## 🛠️ My Projects
-
+  <h2 style="color: #ff6600;">URL Vault</h2>
 - [URL Vault](https://github.com/VanqCoding/JavaScript_ChromeExtension): URL Vault is a solution for effortlessly managing and organizing your favorite links and web pages. With this Chrome extension, you can        easily save URLs from your current tab or manually enter links for future reference.
   
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
