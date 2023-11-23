@@ -28,6 +28,7 @@ I'm Telmen, an aspiring Junior Software Engineer from Switzerland.
 
 ## 🛠️ My Projects
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 - [URL Vault](https://github.com/VanqCoding/JavaScript_ChromeExtension): URL Vault is a solution for effortlessly managing and organizing your favorite links and web pages. With this Chrome extension, you can easily save URLs from your current tab or manually enter links for future reference.
 - [BlackJack](https://github.com/VanqCoding/JavaScript_BlackJack): This project is a simple implementation of the classic card game using HTML, CSS, and JavaScript.
 - [Shop Mate](https://github.com/VanqCoding/ShopMate): Shop Mate is a simple mobile app that lets you manage your grocery list so you won't forget to buy anything.
