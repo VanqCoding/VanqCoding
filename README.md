@@ -29,6 +29,8 @@ I'm Telmen, an aspiring Junior Software Engineer from Switzerland.
 ## 🛠️ My Projects
 
 - [URL Vault](https://github.com/VanqCoding/JavaScript_ChromeExtension): URL Vault is a solution for effortlessly managing and organizing your favorite links and web pages. With this Chrome extension, you can easily save URLs from your current tab or manually enter links for future reference.
+- - [URL Vault](https://github.com/VanqCoding/JavaScript_ChromeExtension): URL Vault is a solution for effortlessly managing and organizing your favorite links and web pages. With this Chrome extension, you can easily save URLs from your current tab or manually enter links for future reference.
+  <img src="https://github.com/VanqCoding/JavaScript_ShopMate/Screenshot.png" alt="URL Vault Image" width="100"/>
 - [BlackJack](https://github.com/VanqCoding/JavaScript_BlackJack): This project is a simple implementation of the classic card game using HTML, CSS, and JavaScript.
 - [Shop Mate](https://github.com/VanqCoding/ShopMate): Shop Mate is a simple mobile app that lets you manage your grocery list so you won't forget to buy anything.
 - [AirBnB Experiences clone](https://github.com/VanqCoding/REACT_airbnb-clone): This project is a simplified clone of Airbnb Experiences, built using React.
