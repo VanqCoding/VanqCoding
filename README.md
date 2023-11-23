@@ -8,9 +8,10 @@
 
 ## 🔧 Technologies & Tools
 
-| ![HTML5](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg) | ![CSS3](https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg) | ![JavaScript](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg) | ![Java](https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg) | ![Spring](https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg) |
-| --- | --- | --- | --- | --- |
-| Description 1 | Description 2 | Description 3 | Description 4 | Description 5 |
+| ![HTML5](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg) ![CSS3](https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg) ![JavaScript](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg) | --- | --- | --- |
+
+| ![Java](https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg) | ![Spring](https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg) |
+ --- | --- |
 
 | ![Python](https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg) | ![Flask](https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg) | ![MongoDB](https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg) | ![MySQL](https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg) | ![PostgreSQL](https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg) |
 | --- | --- | --- | --- | --- |
