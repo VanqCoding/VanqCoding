@@ -8,15 +8,9 @@
 
 ## 🔧 Technologies & Tools
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="50" height="50"/>
-  &nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="50" height="50"/>
-  &nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
-  &nbsp;&nbsp;
-  <!-- Add more images as needed -->
-</div>
+| ![HTML5](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg) | ![CSS3](https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg) | ![JavaScript](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg) |
+| --- | --- | --- |
+| Description 1 | Description 2 | Description 3 |
 
 
 ## 🌱 I'm currently learning
