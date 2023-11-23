@@ -8,7 +8,7 @@ I'm Telmen, an aspiring Junior Software Engineer from Switzerland.
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=spring)
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
