@@ -8,18 +8,13 @@
 
 ## 🔧 Technologies & Tools
 
-| ![HTML5](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg) ![CSS3](https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg) ![JavaScript](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg) | --- | --- | --- |
-
-| ![Java](https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg) | ![Spring](https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg) |
- --- | --- |
-
-| ![Python](https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg) | ![Flask](https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg) | ![MongoDB](https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg) | ![MySQL](https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg) | ![PostgreSQL](https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg) |
-| --- | --- | --- | --- | --- |
-| Description 6 | Description 7 | Description 8 | Description 9 | Description 10 |
-
-| ![Firebase](https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg) | ![Azure](https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg) | ![Git](https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg) |
+| ![HTML5](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg) | ![CSS3](https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg) | ![JavaScript](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg) |
 | --- | --- | --- |
-| Description 11 | Description 12 | Description 13 |
+| ![Java](https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg) | ![Spring](https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg) | |
+| ![Python](https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg) | ![Flask](https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg) | ![MongoDB](https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg) |
+| ![MySQL](https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg) | ![PostgreSQL](https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg) | ![Firebase](https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg) |
+| ![Azure](https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg) | ![Git](https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg) | |
+
 
 
 
