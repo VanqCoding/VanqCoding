@@ -29,8 +29,6 @@ I'm Telmen, an aspiring Junior Software Engineer from Switzerland.
 
 ## 📫 How to reach me
 
-
-
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/telmen-munkhbaatar-96b046285/)
 
 ## 🛠️ My Projects
@@ -40,6 +38,8 @@ URL Vault is a solution for effortlessly managing and organizing your favorite l
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+
+---
   
 ### [BLACK JACK](https://github.com/VanqCoding/JavaScript_BlackJack)
 This project is a simple implementation of the classic card game using HTML, CSS, and JavaScript.
