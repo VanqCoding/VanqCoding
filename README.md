@@ -25,12 +25,13 @@ I'm Telmen, an aspiring Junior Software Engineer from Switzerland.
 
 ## 🌱 I'm currently learning
 
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Frontend](https://img.shields.io/badge/-Frontend-333333?style=flat)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ## 📫 How to reach me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/telmen-munkhbaatar-96b046285/)
+
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/telmen-munkhbaatar-96b046285/)
 
 ## 🛠️ My Projects
 
