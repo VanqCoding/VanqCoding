@@ -63,8 +63,18 @@
 
 ## 🛠️ My Projects
 
+### [REACT MEME GENERATOR](https://github.com/VanqCoding/REACT_meme-generator/tree/main)
+This project is an interactive Webapp, built using React. It allows users to fetch Meme templates through API and add text onto it to generate a custom Meme.
+  
+  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+
+---
+
 ### [URL VAULT](https://github.com/VanqCoding/JavaScript_ChromeExtension)
-URL Vault is a solution for effortlessly managing and organizing your favorite links and web pages. With this Chrome extension, you can        easily save URLs from your current tab or manually enter links for future reference.
+URL Vault is a solution for effortlessly managing and organizing your favorite links and web pages. With this Chrome extension, you can easily save URLs from your current tab or manually enter links for future reference.
   
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
