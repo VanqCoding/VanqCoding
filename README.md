@@ -63,7 +63,7 @@
 
 ## 🛠️ My Projects
 
-### [FULLSTACK RECIPE WEB APPLICATION](https://github.com/VanqCoding/REACT_tenzies-game/tree/main)
+### [FULLSTACK RECIPE WEB APPLICATION](https://github.com/VanqCoding/FullStack_RecipeAppV1)
 (Under construction)
 
 Recipe App is a full stack web application that provides access to a collection of 13,500 cooking recipes. Users can search for inspirational recipes based on the ingredients they have on hand either entering by text or submitting a picture.
