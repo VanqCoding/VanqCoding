@@ -64,7 +64,8 @@
 ## 🛠️ My Projects
 
 ### [FULLSTACK RECIPE WEB APPLICATION](https://github.com/VanqCoding/REACT_tenzies-game/tree/main)
-Tenzies is a fun and entertaining dice game implemented using React. The game is inspired by the classic dice game of Tenzi, where the objective is to be the first player to roll all ten dice to the same number.
+(Under construction)
+Recipe App is a full stack web application that provides access to a collection of 13,500 cooking recipes. Users can search for inspirational recipes based on the ingredients they have on hand either entering by text or submitting a picture.
   
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
