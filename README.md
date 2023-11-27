@@ -63,6 +63,18 @@
 
 ## 🛠️ My Projects
 
+### [FULLSTACK RECIPE WEB APPLICATION](https://github.com/VanqCoding/REACT_tenzies-game/tree/main)
+Tenzies is a fun and entertaining dice game implemented using React. The game is inspired by the classic dice game of Tenzi, where the objective is to be the first player to roll all ten dice to the same number.
+  
+  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  
+---
+
 ### [REACT TENZIES GAME](https://github.com/VanqCoding/REACT_tenzies-game/tree/main)
 Tenzies is a fun and entertaining dice game implemented using React. The game is inspired by the classic dice game of Tenzi, where the objective is to be the first player to roll all ten dice to the same number.
   
