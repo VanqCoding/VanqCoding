@@ -91,6 +91,7 @@ Recipe App is a full stack web application that provides access to a collection 
 ---
 
 ### [REACT TENZIES GAME](https://github.com/VanqCoding/REACT_tenzies-game/tree/main)
+Live: https://tenzies-game-telmen.netlify.app
 Tenzies is a fun and entertaining dice game implemented using React. The game is inspired by the classic dice game of Tenzi, where the objective is to be the first player to roll all ten dice to the same number.
   
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
@@ -101,6 +102,7 @@ Tenzies is a fun and entertaining dice game implemented using React. The game is
 ---
 
 ### [REACT MEME GENERATOR](https://github.com/VanqCoding/REACT_meme-generator/tree/main)
+Live: https://react-meme-generator-telmen.netlify.app
 This project is an interactive Webapp, built using React. It allows users to fetch Meme templates through API and add text onto it to generate a custom Meme.
   
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
@@ -120,6 +122,7 @@ URL Vault is a solution for effortlessly managing and organizing your favorite l
 ---
   
 ### [SHOP MATE](https://github.com/VanqCoding/ShopMate)
+Live: https://shop-mate-telmen.netlify.app
 Shop Mate is a simple mobile app that lets you manage your grocery list so you won't forget to buy anything.
 
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
@@ -140,6 +143,7 @@ This project is a simplified clone of Airbnb Experiences, built using React.
 ---
 
 ### [BLACK JACK](https://github.com/VanqCoding/JavaScript_BlackJack)
+Live: https://black-jack-telmen.netlify.app
 This project is a simple implementation of the classic card game using HTML, CSS, and JavaScript.
 
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
